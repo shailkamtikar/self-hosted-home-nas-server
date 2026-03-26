@@ -71,15 +71,15 @@ Authentication problems were caused by cached credentials on the client machine.
 
 ### OpenMediaVault Dashboard
 
-![OMV Dashboard](images/omv-dashboard.png)
+![OMV Dashboard](images/omv-dash.png)
 
 ### Local Network Access (Windows SMB)
 
-![Local Access](images/local-access.png)
+![Local Access](images/smb_desktop.png)
 
 ### Remote Access via Tailscale (Mobile Data)
 
-![Remote Access](images/remote-access.png)
+![Remote Access](images/tailscale_mobiledata.png)
 
 ---
 
